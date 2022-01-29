@@ -43,4 +43,4 @@ Normative behaviour appears more frequently in "reality". Do not take the politi
 License
 -------
 
-Racket is Political software; think for the lack of a better token.
+Racket is Political software; think for the lack of a generic token.
